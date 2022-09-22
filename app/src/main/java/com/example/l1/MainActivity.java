@@ -6,7 +6,7 @@ import android.os.Bundle;
 
 /**
  *The class of the main activity and the functions implemented according to the task.
- *@author Kulbezekova Kristina
+ *@author Kulbezekova Kristina IP-916
  */
 public class MainActivity extends AppCompatActivity {
 
